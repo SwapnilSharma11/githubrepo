@@ -11,5 +11,5 @@ cout<<"enter the vertical distance:";
 cin>>b;
 dist=sqrt(pow(a,2)+pow(b,2));
 cout<<"distance b/t two points is:"<<dist;
-getch();
+ getch() ;
 }
